@@ -1,0 +1,11 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "antek.antekmodpanel",
+	"name": "Antek Mod Panel",
+	"version": "v1.0.0",
+	"developer": "Antek",
+	"description": "Panel z funkcjami otwierany klawiszem TAB."
+}
